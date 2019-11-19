@@ -1,1 +1,2 @@
-hi this is git 
+hi this is git
+this is second line
